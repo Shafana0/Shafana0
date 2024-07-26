@@ -1,8 +1,9 @@
-|[logo] (https://github.com/Shafana0/Github.banner.png/blob/main/insightful_transformation.png)
+![logo] (https://github.com/Shafana0/Github.banner.png/blob/main/insightful_transformation.png)
 <h1 align="center">Hi 👋, I'm Shafana</h1>
 <h3 align="center">Data Aspirant.📊</h3>
 
-<img align="right" alt="Problem Solver" width="400 src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
+<img align="right" alt="data analytics" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafana0&label=Profile%20views&color=0e75b6&style=flat" alt="shafana0" /> </p>
 
