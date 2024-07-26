@@ -1,4 +1,4 @@
-![logo] (https://github.com/Shafana0/Github.banner.png/blob/main/insightful_transformation.png)
+![Banner](https://raw.githubusercontent.com/Shafana0/Github.banner.png/main/insightful_transformation.png)
 <h1 align="center">Hi 👋, I'm Shafana</h1>
 <h3 align="center">Data Aspirant.📊</h3>
 
