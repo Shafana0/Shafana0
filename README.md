@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://powerbi.microsoft.com" target="_blank" rel="noopener noreferrer">
-       <img src="https://raw.githubusercontent.com/Shafana0/Github.banner.png/main/excel.png" alt="Power BI" width="40" height="40">
+       <img src="https://raw.githubusercontent.com/Shafana0/Github.banner.png/main/pbi.png" alt="Power BI" width="40" height="40">
      </a>
      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer">
        <img src="https://raw.githubusercontent.com/Shafana0/Github.banner.png/main/excel.png" alt="Excel" width="40" height="40">
