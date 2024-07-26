@@ -1,3 +1,4 @@
+|[logo] (https://github.com/Shafana0/Github.banner.png#)
 <h1 align="center">Hi 👋, I'm Shafana</h1>
 <h3 align="center">Data Aspirant.📊</h3>
 
