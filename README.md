@@ -1,8 +1,7 @@
-![logo](https://github.com/Shafana0/Github.banner.png/blob/main/data_to_confess_insights.png)
 <h1 align="center">Hi 👋, I'm Shafana</h1>
-<h3 align="center">Aspiring data analyst.📊</h3>
+<h3 align="center">Data Aspirant.📊</h3>
 
-<img align="right" alt="data analytics" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
+<img align="right" alt="Problem Solver" width="400 src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafana0&label=Profile%20views&color=0e75b6&style=flat" alt="shafana0" /> </p>
 
@@ -12,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/shafana-09579328b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shafana ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafana ." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
