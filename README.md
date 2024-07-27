@@ -25,7 +25,7 @@
 
      - 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 : Builds dynamic dashboards that provide real-time visibility into performance metrics and KPIs.
 
-  Check out my projects to see what i've been up to !
+  **Check out my projects to see what i've been up to !**
 
  📊1.**Business Insights 360, FMCG, Brick-and-Mortar, and E-Commerce** :
 
