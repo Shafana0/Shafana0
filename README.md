@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/Shafana0/Github.banner.png/main/insightful_transformation.png)
 <h1 align="center">Hi 👋, I'm Shafana</h1>
-<h3 align="center">Data Aspirant specializing in SQL, Power BI and Excel.I turn complex data into actionable business insights and solve problems with innovative data solution.📊</h3>
+<h3 align="center">Data Aspirant specialized in SQL, Power BI and Excel.I turn complex data into actionable business insights and solve problems with innovative data solution.📊</h3>
 
 <img align="right" alt="data analytics" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
