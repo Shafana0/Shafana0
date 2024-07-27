@@ -7,13 +7,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafana0&label=Profile%20views&color=0e75b6&style=flat" alt="shafana0" /> </p>
 
-- 🌱**What i'm Working On** 
+- 🌱**Current focus and Expertise** 
 
-   I'm enhancing my skills in :
+     - 𝐒𝐐𝐋 : Expert in crafting powerful queries to extract meaningful insights from data.
 
-     -**Advanced Data Analytics** : Exploring advanced  techniques and tools.
+     - 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 : Skilled in creating interactive dashboards and reports that provide clear insights, empowering stakeholders to make informed decisions. I've applied Power BI to 
+       visualize complex data sets and identify key trends.
 
-    -**Advanced Visualization** : Deep diving into data visualization techniques.
+     - 𝐄𝐱𝐜𝐞𝐥 : Proficient in using advanced formulas and pivot tables to deliver clear and impactful data analysis.
+
+     - 𝐃𝐚𝐭𝐚 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠 : Experienced in designing robust data models that enhance reporting accuracy and efficiency.
+
+     - 𝐃𝐚𝐭𝐚 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 : Transformed complex data into easy-to-understand visualizations that highlight key business trends. I've created visualizations that have facilitated 
+       understanding and decision-making.
+
+     - 𝐄𝐓𝐋 : Ensures data integrity through meticulous Extract, Transform, Load processes across diverse datasets.
+
+     - 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 : Builds dynamic dashboards that provide real-time visibility into performance metrics and KPIs.
 
   Check out my projects to see what i've been up to !
 
