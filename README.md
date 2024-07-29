@@ -29,25 +29,6 @@
 
   **Check out my projects to see what i've been up to !**
 
- 📊1.**Business Insights 360, FMCG, Brick-and-Mortar, and E-Commerce** :
-
-[ Live Dashboard ]  (https://lnkd.in/gPRMvFne)
-        Developed interactive dashboards using Power BI, Excel, and DAX Studio to analyze performance across FMCG, retail, and e-commerce sectors. 
-        Provided actionable insights into sales and market trends.
-
-📊 2.**Revenue Insights for Hospitality Sector** :
-
-[ Live Dashboard ] (https://lnkd.in/gRB7Syuz)
-       Created a Power BI dashboard with Excel for detailed revenue analysis in the hospitality sector, focusing on occupancy rates and revenue streams. Enhanced business intelligence 
-       and reporting accuracy.
-
-📊 3.**Consumer Goods Ad-Hoc Analysis** :
-      Performed SQL-based analysis and Power BI visualizations to deliver ad-hoc insights into consumer goods sales. Utilized advanced querying to support strategic decision-making.
-
-📊 4.**P&L Report for Atlic Hardware** :
-      Designed a Profit and Loss report using Excel and PivotTables to analyze financial performance for Atlic Hardware. Streamlined financial reporting and profitability tracking.
-
-
 
 - 📫 How to reach me **shafanashana2002@gmail.com** 
 
