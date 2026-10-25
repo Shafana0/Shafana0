@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/Shafana0/Github.banner.png/main/insightful_transformation.png)
 <h1 align="center">Hi 👋, I'm Shafana</h1>
-<h3 align="center">Marketing Analyst | Data Enthusiast | Performance Optimization Specialist</h3>
+<h3 align="center">MIS & Analytics Professional | Data-Driven Insights | KPI Reporting</h3>
 
 <img align="right" alt="data analytics" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
@@ -20,7 +20,7 @@
      
      - Reporting & Data Visualization: Cleaned and analyzed data, created interactive reports and dashboards, and presented actionable insights to support business decisions.
      
-  **Check out my projects to see my work in data analytics and performance marketing!**
+  **Check out my projects to see my work in data analytics!**
 
 - 📫 How to reach me **shafanashana2002@gmail.com** 
 
