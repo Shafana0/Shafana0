@@ -8,17 +8,17 @@
 
 - 🌱 **Current Role & Expertise**
 
-     - **Marketing Analytics**: Managing and optimizing campaigns on Amazon and Flipkart by analyzing key performance metrics such as impressions, clicks, CTR, spend, sales, ACOS, and ROI to drive business growth.
+     - **MIS & Data Analysis – Swiggy Instamart**: Analyzing 5,000+ monthly incorrect gratification claims using SQL and Advanced Excel to identify root causes and reduce avoidable payouts by 10–15%.
      
-     - **Campaign Optimization**: Skilled in bid adjustments, performance tracking, and budget allocation to enhance efficiency while minimizing spend on non-performing keywords.
+     - Operational & Catalog Analysis: Monitoring catalog discrepancies, identifying high-impact items, and coordinating with category teams to improve order accuracy and reduce repeat claims.
      
-     - **Data-Driven Decisions**: Proficient in using Excel for tracking daily, hourly, and monthly performance, generating insightful reports, and implementing data-backed strategies.
+     - MIS Reporting & Business Insights: Delivering weekly reports to identify high-impact cities, categories, and pods, contributing to a 15% reduction in IGCC cases and a 10% reduction in claim-related costs.
      
-     - **E-commerce Strategy**: Expertise in identifying high-performing keywords, monitoring competitor trends, and executing performance marketing strategies to maximize return on investment (ROI).
+     - **Marketing Analytics – Broadwing Labs**: Analyzed e-commerce performance across Amazon, Flipkart, and Blinkit using Advanced Excel to track KPIs, identify trends, and evaluate campaign performance.
      
-     - **SQL & Power BI**: Leveraging data analysis and visualization tools to track marketing performance, uncover trends, and present actionable insights.
+     - Performance Analysis & Optimization: Evaluated CTR, CVR, ACOS, and ROI, reviewed keyword performance, and recommended targeting and budget improvements to support marketing efficiency.
      
-     - **KPI Analysis & Reporting**: Strong analytical skills in evaluating performance marketing campaigns, optimizing budget allocation, and improving key metrics.
+     - Reporting & Data Visualization: Cleaned and analyzed data, created interactive reports and dashboards, and presented actionable insights to support business decisions.
      
   **Check out my projects to see my work in data analytics and performance marketing!**
 
